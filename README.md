@@ -20,3 +20,22 @@ samples, guidance on mobile development, and a full API reference.
 
 
 //http://3.7.56.107:7823/TRAININGAPP-DXNJ6IM28Z/
+
+
+
+
+//Rules
+
+AUTH_VAHANA 
+
+[{"p_gprs_string":"y"}]
+
+{"$.[0].p_gprs_string":"y"} 
+
+
+
+SPDPGETUSERSESSION
+
+[{"STATUS":"SUCCESS"}] 
+{"$.[0].STATUS":"SUCCESS"} 
+
